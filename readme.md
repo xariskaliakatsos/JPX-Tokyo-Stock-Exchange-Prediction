@@ -1,4 +1,4 @@
-# JPX Tokyo Exchange Prediction
+# JPX Tokyo Stock Exchange Prediction
 
 ![image](https://user-images.githubusercontent.com/95586847/172226164-435897a7-0236-4f58-be8a-dd58b13d1e55.png)
 
@@ -10,19 +10,19 @@
 
 ## Table of Contents
 
-[0. Installation](https://github.com/vickypar/tokyo_stock_exchange_prediction#0-installation)
+[0. Installation](https://github.com/xariskaliakatsos/JPX-Tokyo-Stock-Exchange-Prediction#0-installation)
 
-[1. Semantics](https://github.com/vickypar/tokyo_stock_exchange_prediction#1-semantics)
+[1. Semantics](https://github.com/xariskaliakatsos/JPX-Tokyo-Stock-Exchange-Prediction#1-semantics)
 
-[2. About](https://github.com/vickypar/tokyo_stock_exchange_prediction#2-about)
+[2. About](https://github.com/xariskaliakatsos/JPX-Tokyo-Stock-Exchange-Prediction#2-about)
 
-[3. Competition Overview](https://github.com/vickypar/tokyo_stock_exchange_prediction#3-competition-overview)
+[3. Competition Overview](https://github.com/xariskaliakatsos/JPX-Tokyo-Stock-Exchange-Prediction#3-competition-overview)
 
-[4. About Our Approach](https://github.com/vickypar/tokyo_stock_exchange_prediction#4-about-our-approach)
+[4. About Our Approach](https://github.com/xariskaliakatsos/JPX-Tokyo-Stock-Exchange-Prediction#4-about-our-approach)
 
-[5. Performance of the Models](https://github.com/vickypar/tokyo_stock_exchange_prediction#5-performance-of-the-models)
+[5. Performance of the Models](https://github.com/xariskaliakatsos/JPX-Tokyo-Stock-Exchange-Prediction#5-performance-of-the-models)
 
-[6. Licensing and Refferences](https://github.com/vickypar/tokyo_stock_exchange_prediction#6-licensing-and-refferences)
+[6. Licensing and Refferences](https://github.com/xariskaliakatsos/JPX-Tokyo-Stock-Exchange-Prediction#6-licensing-and-refferences)
 
 
 ## 0. Installation 
