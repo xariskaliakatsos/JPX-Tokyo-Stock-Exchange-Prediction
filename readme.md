@@ -116,7 +116,7 @@ Comparison between all approaches.
 
 ## 6. Licensing and Refferences
 
-Copyright (c) 2022 vickypar
+Copyright (c) 2022 xariskaliakatsos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
