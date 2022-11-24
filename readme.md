@@ -22,7 +22,6 @@
 
 [5. Performance of the Models](https://github.com/xariskaliakatsos/JPX-Tokyo-Stock-Exchange-Prediction#5-performance-of-the-models)
 
-[6. Licensing and Refferences](https://github.com/xariskaliakatsos/JPX-Tokyo-Stock-Exchange-Prediction#6-licensing-and-refferences)
 
 
 ## 0. Installation 
@@ -114,24 +113,3 @@ Comparison between all approaches.
 | XGBoost                 | `0.018`       | `0.0277`      | `0.0007`      |`928.5`        |
 | LSTM                    | **`0.013`**   | **`0.0232`**  | **`0.0003`**  |`31.115`       |
 
-## 6. Licensing and Refferences
-
-Copyright (c) 2022 xariskaliakatsos
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
