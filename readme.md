@@ -6,7 +6,7 @@
 
 - Vasiliki Chrysovalanto Parousidou (@vickypar)
 - Zoi Chatzichristodoulou (@zoichatzi)
-- Charilaos Kaliakatsos
+- Charilaos Kaliakatsos (@xariskaliakatsos)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ The code requires Python versions of 3.* and general libraries available through
 ## 1. Semantics
 
 **JPX Tokyo Exchange Prediction** is a project that was created as a semester Project in the context of “Advanced Machine Learning” class.
-MSc Data and Web Science, School of Informatics, Aristotle University of Thessaloniki.
+MSc Data and Web Science, School of Informatics, Aristotle University of Thessaloniki. The project team conisted of me, Vasiliki Parousidou and Zoi Chatzichristodoulou
 
 
 ## 2. About
